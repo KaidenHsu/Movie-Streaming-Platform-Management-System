@@ -2,12 +2,12 @@
 This repo is my final project for the course "Database Systems" in NCCU.
 
 ## E-R Diagram
-<img src="./images/ER_Diagram.jpg" alt="Load failed" width="420" align="middle">
+<img src="./images/ER_Diagram.jpg" alt="Load failed" width="360" align="middle" />
 
 ## Relational Schema
 <p align="center">
-    <img src="./images/Schema_1.jpg" alt="timing" width="420" align="middle" />
-    <img src="./images/Schema_2.jpg" alt="timing" width="420" align="middle" />
+    <img src="./images/Schema_1.jpg" alt="timing" width="360" align="middle" />
+    <img src="./images/Schema_2.jpg" alt="timing" width="360" align="middle" />
 </p>
 
 ## Running the Project from Scratch
