@@ -2,7 +2,7 @@
 This repo is my final project for the course "Database Systems" in NCCU.
 
 ## E-R Diagram
-<img src="./images/ER_Diagram.jpg" alt="Load failed" width="420" height="594">
+<img src="./images/ER_Diagram.jpg" alt="Load failed" width="420" align="middle">
 
 ## Relational Schema
 <p align="center">
