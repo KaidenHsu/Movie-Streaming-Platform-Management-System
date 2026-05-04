@@ -1,15 +1,14 @@
 # Movie Streaming Platform Management System
 This repo is my final project for the course "Database Systems" in NCCU.
 
-## Caveat
-Please note that code in this repo is intended solely for demo purposes and is susceptible to various kinds of bugs. Please DO NOT use it in practice!
-
 ## E-R Diagram
 <img src="./images/ER_Diagram.jpg" alt="Load failed" width="420" height="594">
 
 ## Relational Schema
-<img src="./images/Schema_1.jpg" alt="Load failed" width="420" height="594">
-<img src="./images/Schema_2.jpg" alt="Load failed" width="420" height="594">
+<p align="center">
+    <img src="./images/Schema_1.jpg" alt="timing" width="420" align="middle" />
+    <img src="./images/Schema_2.jpg" alt="timing" width="420" align="middle" />
+</p>
 
 ## Running the Project from Scratch
 
@@ -47,7 +46,6 @@ For more information, please read the [docs](./docs).
 
 
 ## System Function Analysis
-The system provides the following key functionalities:
 
 **User Management**
 - **Registration**: New users can register by providing necessary details such as username, password, and phone number. The system ensures that the username is unique and provides feedback if the username is already taken or if the password confirmation does not match.
