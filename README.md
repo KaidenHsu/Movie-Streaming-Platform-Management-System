@@ -2,9 +2,9 @@
 This repo is my final project for the course "Database Systems" in NCCU.
 
 ## E-R Diagram
-<div style="text-align: center;">
+<p align="center">
   <img src="./images/ER_Diagram.jpg" alt="ER Diagram" width="360">
-</div>
+</p>
 
 ## Relational Schema
 <p align="center">
