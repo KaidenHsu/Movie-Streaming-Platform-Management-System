@@ -2,7 +2,9 @@
 This repo is my final project for the course "Database Systems" in NCCU.
 
 ## E-R Diagram
-<img src="./images/ER_Diagram.jpg" alt="Load failed" width="360" align="middle" />
+<div style="text-align: center;">
+  <img src="./images/ER_Diagram.jpg" alt="ER Diagram" width="360">
+</div>
 
 ## Relational Schema
 <p align="center">
@@ -47,7 +49,7 @@ flask run
 website | access point
 --------|:-----
 movie streaming app | http://127.0.0.1:5000
-admin panel | http://127.0.0.1:5000/admin?admin_key=<your_admin_key>
+admin panel | http://127.0.0.1:5000/admin?admin_key=your_admin_key
 
 
 ## System Function Analysis
