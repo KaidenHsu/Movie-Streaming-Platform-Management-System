@@ -41,8 +41,13 @@ Start the Flask application.
 ```sh
 flask run
 ```
-Now, you should be able to access the application at http://127.0.0.1:5000 and the admin panel at http://127.0.0.1:5000/admin?admin_key=your_admin_key_here (replace your_admin_key_here with your custom admin key).
-For more information, please read the [docs](./docs).
+
+5. **Check Successful Bringup**
+
+website | access point
+--------|:-----
+movie streaming app | http://127.0.0.1:5000
+admin panel | http://127.0.0.1:5000/admin?admin_key=<your_admin_key>
 
 
 ## System Function Analysis
